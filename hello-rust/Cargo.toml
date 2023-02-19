@@ -1,0 +1,10 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nivaldo Farias"]
+include = ["src/**/*"]
+license = "MIT"
+
+[dependencies]
+ferris-says = "0.2"
